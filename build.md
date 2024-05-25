@@ -1,6 +1,6 @@
 Reddit: 2024.21.0  
 Messenger: 459.1.0.57.108  
-Music: 7.01.52  
+Music: 7.02.51  
 YouTube: 19.11.43  
 Strava: 320.12  
 
