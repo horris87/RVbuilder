@@ -1,7 +1,7 @@
-Reddit: 2024.17.0  
 Messenger: 459.1.0.57.108  
-YouTube: 19.11.43  
+Reddit: 2024.17.0  
 Music: 7.02.51  
+YouTube: 19.11.43  
 Strava: 320.12  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
